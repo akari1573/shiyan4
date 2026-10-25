@@ -1,0 +1,35 @@
+<resources>
+    <string name="app_name">张可航2024110146</string>
+
+    <!-- 主界面 -->
+    <string name="title_player_info">玩家信息</string>
+    <string name="label_name">姓名：</string>
+    <string name="label_gender">性别：</string>
+    <string name="label_phone">电话：</string>
+    <string name="label_high_score">当前最高分：</string>
+    <string name="high_score_value">%1$d</string>
+    <string name="btn_edit_info">修改个人信息</string>
+    <string name="btn_start_game">进入翻牌游戏</string>
+    <string name="default_name">张可航</string>
+    <string name="default_phone">13800000000</string>
+    <string name="gender_male">男</string>
+    <string name="gender_female">女</string>
+
+    <!-- 信息修改界面 -->
+    <string name="title_edit_info">修改个人信息</string>
+    <string name="hint_input_name">请输入姓名</string>
+    <string name="hint_input_phone">请输入电话</string>
+    <string name="label_gender_radio">性别</string>
+    <string name="btn_save">保存</string>
+    <string name="btn_cancel">取消</string>
+    <string name="toast_name_empty">姓名不能为空</string>
+    <string name="toast_phone_invalid">请输入11位电话号码</string>
+    <string name="toast_save_success">保存成功</string>
+
+    <!-- 翻牌游戏界面 -->
+    <string name="title_card_game">翻牌游戏</string>
+    <string name="game_score">得分：%1$d</string>
+    <string name="game_flips">翻牌次数：%1$d</string>
+    <string name="btn_restart">重新开始</string>
+    <string name="toast_game_win">恭喜！你赢了</string>
+</resources>

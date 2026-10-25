@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="black">#FF000000</color>
+    <color name="white">#FFFFFFFF</color>
+    <color name="primary_color">#FF3F51B5</color>
+    <color name="label_gray">#FF757575</color>
+    <color name="score_red">#FFE53935</color>
+    <color name="card_back_top">#FF3949AB</color>
+    <color name="card_back_bottom">#FF1A237E</color>
+    <color name="card_back_border">#FFC5CAE9</color>
+    <color name="card_face">#FFFFFFFF</color>
+    <color name="card_face_border">#FF3F51B5</color>
+    <color name="card_matched_bg">#FFC8E6C9</color>
+    <color name="card_matched_border">#FF43A047</color>
+    <color name="card_number">#FF283593</color>
+    <color name="card_matched_number">#FF2E7D32</color>
+    <color name="teal_700">#FF018786</color>
+</resources>
